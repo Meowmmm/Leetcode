@@ -1,4 +1,3 @@
-# Leetcode
 
 
 | TOP  | 题目                                                         | 说明                                                         | flag                     |
