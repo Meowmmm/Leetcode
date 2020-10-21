@@ -92,6 +92,7 @@
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
 | N    | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) |                                                              | 字符串                   |
 | N    | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |                                                              | 快慢指针                 |
+| N    | [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) |                                                              | 双指针                   |
 | N    | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 找到中值，再向两边遍历                                       |                          |
 | N    | [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |                                                              | 智障题                   |
 |      | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
