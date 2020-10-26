@@ -21,6 +21,7 @@
 | N    | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 同下                                                         | DFS+位运算               |
 | N    | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | n & -n得到最低位的1的位置<br />n &= (n-1): 把最低位1置0      | DFS+位运算               |
 | 剑指 | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |                                                              | O(N)                     |
+|      | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) |                                                              |                          |
 | N    | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | dp[n] = dp[n-1] + dp[n-2]                                    | dp                       |
 |      | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) |                                                              | 排序                     |
 |      | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |                                                              | 滑动窗口                 |
@@ -93,11 +94,13 @@
 | N    | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 滑动窗口+合并区间                                            | 滑动窗口                 |
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
 | N    | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) |                                                              | 字符串                   |
+| N    | [845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 边界很烦                                                     | 双指针                   |
 | N    | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |                                                              | 快慢指针                 |
 | N    | [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) |                                                              | 双指针                   |
 | N    | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 找到中值，再向两边遍历                                       |                          |
 | N    | [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |                                                              | 智障题                   |
 | N    | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | 统计单词                                                     | 智障题                   |
+| N    | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
 |      | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
 |      | [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) |                                                              | 字符串处理               |
 |      |                                                              |                                                              |                          |
