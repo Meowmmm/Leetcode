@@ -17,6 +17,7 @@
 | TOP  | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                                     | 二分查找                 |
 | TOP  | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 类似斐波拉契，一层层处理                                     | 字符串处理               |
 | TOP  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 完全背包                                                     | dfs                      |
+|      | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |                                                              | Trick                    |
 | TOP  | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | next_permutation                                             | dfs or stl               |
 | TOP  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 排序后的字符串作为key，map汇聚                               | STL                      |
 | TOP  | [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 超时警告⚠️，指数增长                                          |                          |
@@ -49,6 +50,7 @@
 | TOP  | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 所有连续升序子序列首尾差的总和                               |                          |
 | TOP  | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |                                                              | 递归                     |
 |      | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 字符串操作+边界处理                                          | 字符串操作               |
+|      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |                                                              | 树，递归                 |
 | TOP  | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 快慢指针                                                     | 快慢指针                 |
 |      | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | slow = head，fast = fast->next<br />下次相遇就是找到了链表的环入口 | 快慢指针                 |
 |      | [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) |                                                              | vector保存每个节点       |
@@ -95,6 +97,7 @@
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
 |      | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 一次遍历                                                     | 智障题目                 |
+|      | [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/) |                                                              | Priority_queue           |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
 |      | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |                                                              | 智障题目                 |
 |      | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) |                                                              | 树的遍历+set             |
@@ -110,10 +113,13 @@
 |      | [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |                                                              | 智障题                   |
 |      | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | 统计单词                                                     | 智障题                   |
 |      | [1207. 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) |                                                              | 智障题                   |
+|      | [1347. 制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 统计两个单词字母出现次数差                                   | 字符串变换               |
 |      | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
+| 剑指 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
 |      | [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) |                                                              | 字符串处理               |
-|      |                                                              |                                                              |                          |
+|      | [面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/) |                                                              | 树的层次遍历             |
+|      | [面试题 08.04. 幂集](https://leetcode-cn.com/problems/power-set-lcci/) |                                                              | Dfs                      |
 
 
 
