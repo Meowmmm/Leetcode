@@ -15,10 +15,12 @@
 | TOP  | [29. 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 傻逼题，用long long不香？                                    | 各种溢出边界             |
 |      | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 二分查找                                                     | 二分查找                 |
 | TOP  | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                                     | 二分查找                 |
+|      | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | STL真香                                                      | Next_permutation         |
 | TOP  | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 类似斐波拉契，一层层处理                                     | 字符串处理               |
 | TOP  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 完全背包                                                     | dfs                      |
 |      | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |                                                              | Trick                    |
 | TOP  | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | next_permutation                                             | dfs or stl               |
+|      | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | next_permutation                                             | dfs or stl               |
 | TOP  | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 排序后的字符串作为key，map汇聚                               | STL                      |
 | TOP  | [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 超时警告⚠️，指数增长                                          |                          |
 |      | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 同下                                                         | DFS+位运算               |
@@ -92,6 +94,7 @@
 | TOP  | [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/) |                                                              |                          |
 | TOP  | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) |                                                              | 指针操作                 |
 | TOP  | [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) |                                                              |                          |
+|      | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) |                                                              | 位运算                   |
 | TOP  | [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) |                                                              |                          |
 | TOP  | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) |                                                              | 头尾交换                 |
 | TOP  | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | 小顶堆                                                       | priority_queue           |
