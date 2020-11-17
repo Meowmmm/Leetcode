@@ -90,6 +90,7 @@
 | TOP  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | dp                                                           | dp                       |
 | TOP  | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) |                                                              | **TODO**                 |
 | TOP  | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) |                                                              | 傻逼题                   |
+| 100  | [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |                                                              | 前序遍历                 |
 | TOP  | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) |                                                              | DP                       |
 | TOP  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 完全背包、dp（用stack会死循环）                              | 完全背包、DP             |
 | TOP  | [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/) |                                                              |                          |
