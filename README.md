@@ -56,6 +56,7 @@
 |      | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 字符串操作+边界处理                                          | 字符串操作               |
 | TOP  | [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 双端bfs加快查找速度                                          | BFS                      |
 |      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |                                                              | 树，递归                 |
+|      | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) |                                                              | 贪心                     |
 | TOP  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |                                                              | DFS+MEM                  |
 | TOP  | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 快慢指针                                                     | 快慢指针                 |
 |      | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | slow = head，fast = fast->next<br />下次相遇就是找到了链表的环入口 | 快慢指针                 |
@@ -75,6 +76,7 @@
 | TOP  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 有限次穷举<br />模拟快慢指针判断有环                         | <-                       |
 | TOP  | [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) |                                                              | 鄂尔多塞筛法             |
 | TOP  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 三指针遍历                                                   | 三指针                   |
+| TOP  | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              | 图，检测环               |
 | TOP  | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 前缀树                                                       | 前缀树                   |
 |      | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | dfs                                                          | dfs                      |
 | TOP  | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 第一次遍历解析字符串、第二次遍历进行计算                     | 字符串处理    STL queue  |
