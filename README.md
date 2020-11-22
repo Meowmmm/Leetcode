@@ -89,10 +89,12 @@
 | TOP  | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              | 图，检测环               |
 | TOP  | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 前缀树                                                       | 前缀树                   |
 |      | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | dfs                                                          | dfs                      |
+|      | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |                                                              | STL                      |
 | TOP  | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 第一次遍历解析字符串、第二次遍历进行计算                     | 字符串处理    STL queue  |
 |      | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) |                                                              | 区间                     |
 | TOP  | [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 树的中序遍历                                                 | 树                       |
 |      | [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/) | 计算int中1的个数==1即可                                      | 位运算                   |
+|      | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |                                                              | STL                      |
 | TOP  | [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 快慢指针+反转前半部分链表                                    | 链表                     |
 |      | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 二叉搜索树的特性<br />同下                                   | 树                       |
 | TOP  | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 递归<br />树的后续遍历                                       | 树                       |
