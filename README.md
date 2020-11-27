@@ -39,6 +39,7 @@
 | TOP  | [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 每个位置可选可不选                                           | dfs                      |
 | TOP  | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) |                                                              | Dfs                      |
 |      | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |                                                              | 智障题                   |
+|      | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |                                                              |                          |
 | TOP  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 26进制+dp                                                    | dp                       |
 | TOP  | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |                                                              | queue                    |
 | TOP  | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) |                                                              | Queue + reverse          |
@@ -60,6 +61,7 @@
 | TOP  | [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 双端bfs加快查找速度                                          | BFS                      |
 |      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |                                                              | 树，递归                 |
 |      | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) |                                                              | 贪心                     |
+|      | [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     |                                                              | 贪心                     |
 | TOP  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |                                                              | DFS+MEM                  |
 | TOP  | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 快慢指针                                                     | 快慢指针                 |
 |      | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | slow = head，fast = fast->next<br />下次相遇就是找到了链表的环入口 | 快慢指针                 |
@@ -125,7 +127,10 @@
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
 |      | [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |                                                              | 智障题目                 |
+|      | [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |                                                              | 贪心                     |
 |      | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) |                                                              | 位运算                   |
+|      | [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) |                                                              | 贪心                     |
+|      | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |                                                              | 贪心                     |
 |      | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |                                                              | 位运算                   |
 |      | [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 数边长                                                       | 简单                     |
 |      | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 一次遍历                                                     | 智障题目                 |
@@ -135,12 +140,16 @@
 |      | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) |                                                              | 前序遍历变种             |
 |      | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
+|      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
 |      | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) |                                                              | 递归                     |
+|      | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 注意溢出                                                     | 双指针                   |
 |      | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |                                                              | 智障题目                 |
 |      | [646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) |                                                              | 300变种，dp              |
 |      | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) |                                                              | 树的遍历+set             |
+|      | [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |                                                              | 贪心                     |
 |      | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |                                                              | 300变种，dp              |
 |      | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) |                                                              | 序列                     |
+|      | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |                                                              | 双指针                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
 |      | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 滑动窗口+合并区间                                            | 滑动窗口                 |
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
