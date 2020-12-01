@@ -38,6 +38,7 @@
 | TOP  | [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 本位置【选中】、【不选中】                                   | dfs                      |
 | TOP  | [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 每个位置可选可不选                                           | dfs                      |
 | TOP  | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) |                                                              | Dfs                      |
+|      | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) |                                                              | 二分变形                 |
 |      | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |                                                              | 智障题                   |
 |      | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |                                                              |                          |
 | TOP  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 26进制+dp                                                    | dp                       |
@@ -69,6 +70,7 @@
 |      | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |                                                              | 闭着眼都能写             |
 | TOP  | [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | list + unordered_map                                         | List + hash              |
 | TOP  | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | Stack                                                        | stack                    |
+|      | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) |                                                              | 二分                     |
 |      | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 双stack，其中一个stack存当前最小值。                         | 设计思想                 |
 | TOP  | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 1、第一遍求长度差，第二遍找交点<br />2、第一个链表尾巴指向第二个，相遇就是交点 |                          |
 | TOP  | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) |                                                              | 分治                     |
@@ -138,6 +140,7 @@
 |      | [506. 相对名次](https://leetcode-cn.com/problems/relative-ranks/) |                                                              | Priority_queue           |
 |      | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) |                                                              | dp                       |
 |      | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) |                                                              | 前序遍历变种             |
+|      | [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |                                                              | 位运算 or 二分变形       |
 |      | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
