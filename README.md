@@ -61,6 +61,7 @@
 |      | [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 字符串操作+边界处理                                          | 字符串操作               |
 | TOP  | [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) | 双端bfs加快查找速度                                          | BFS                      |
 |      | [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |                                                              | 树，递归                 |
+| TOP  | [130. 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) |                                                              | bfs                      |
 |      | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) |                                                              | 贪心                     |
 |      | [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     |                                                              | 贪心                     |
 | TOP  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) |                                                              | DFS+MEM                  |
@@ -86,6 +87,7 @@
 | TOP  | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 位运算： <<、>>、&<br />result左移，ori_num右移              | 位运算                   |
 | TOP  | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 位运算：>>、&<br />原数右移32次判断最低位即可                | 位运算<br />bitset       |
 | TOP  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | dp[i] = max(dp[i - 1], n[i] + dp[i - 2]);                    | Dp                       |
+| TOP  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) |                                                              | Dfs                      |
 | TOP  | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 有限次穷举<br />模拟快慢指针判断有环                         | <-                       |
 |      | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) |                                                              | 智障题                   |
 | TOP  | [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) |                                                              | 鄂尔多塞筛法             |
@@ -156,6 +158,7 @@
 |      | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) |                                                              | 序列                     |
 |      | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |                                                              | 双指针                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
+|      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |                                                              | Dfs                      |
 |      | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 滑动窗口+合并区间                                            | 滑动窗口                 |
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
 |      | [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/) | 简单的判断非重叠的情况就行                                   | 数学                     |
