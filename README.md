@@ -131,6 +131,7 @@
 |      | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Unordered_map + unordered_set + vector                       |                          |
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
+|      | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |                                                              | DFS                      |
 |      | [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |                                                              | 智障题目                 |
 |      | [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |                                                              | 贪心                     |
 |      | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) |                                                              | 位运算                   |
@@ -167,6 +168,7 @@
 |      | [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |                                                              | 快慢指针                 |
 |      | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) |                                                              | 双指针                   |
 |      | [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) |                                                              | 双指针                   |
+|      | [934. 最短的桥](https://leetcode-cn.com/problems/shortest-bridge/) |                                                              | dfs + bfs                |
 |      | [941. 有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/) |                                                              | 智障题                   |
 |      | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |                                                              | priority_queue           |
 |      | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 找到中值，再向两边遍历                                       |                          |
