@@ -109,13 +109,16 @@
 | TOP  | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | 考虑多种情况：有0、1个0、多个0                               | 数学问题                 |
 | TOP  | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 从右上或者左下开始搜索                                       | 矩阵                     |
 | TOP  | [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 统计每个字母的count是否一致即可                              | 字符串                   |
+|      | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |                                                              | 树 + 递归                |
 | TOP  | [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/) | 减差 OR 位运算                                               | 位运算                   |
 | TOP  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | dp                                                           | dp                       |
 |      | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) |                                                              | 双指针                   |
 | TOP  | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) |                                                              | **TODO**                 |
 | TOP  | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) |                                                              | 傻逼题                   |
+|      | [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) |                                                              | 字符串split + map        |
 | 100  | [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |                                                              | 前序遍历                 |
 | TOP  | [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) |                                                              | DP                       |
+|      | [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) |                                                              | 树，bfs                  |
 | TOP  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 完全背包、dp（用stack会死循环）                              | 完全背包、DP             |
 | TOP  | [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/) |                                                              |                          |
 | TOP  | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) |                                                              | 指针操作                 |
