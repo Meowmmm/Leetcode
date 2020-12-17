@@ -96,6 +96,7 @@
 | TOP  | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 前缀树                                                       | 前缀树                   |
 |      | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |                                                              | 排序                     |
 |      | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | dfs                                                          | dfs                      |
+|      | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) |                                                              | dfs 、dp                 |
 |      | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |                                                              | STL                      |
 | TOP  | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 第一次遍历解析字符串、第二次遍历进行计算                     | 字符串处理    STL queue  |
 |      | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) |                                                              | 区间                     |
@@ -134,7 +135,7 @@
 |      | [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Unordered_map + unordered_set + vector                       |                          |
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
-|      | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |                                                              | DFS                      |
+|      | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | 四个方向dfs                                                  | DFS                      |
 |      | [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |                                                              | 智障题目                 |
 |      | [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |                                                              | 贪心                     |
 |      | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) |                                                              | 位运算                   |
@@ -149,6 +150,7 @@
 |      | [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) |                                                              | dp                       |
 |      | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) |                                                              | 前序遍历变种             |
 |      | [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |                                                              | 位运算 or 二分变形       |
+|      | [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 两次遍历                                                     | 矩阵                     |
 |      | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
