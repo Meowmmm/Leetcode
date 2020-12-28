@@ -97,6 +97,7 @@
 | TOP  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 三指针遍历                                                   | 三指针                   |
 | TOP  | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              | 图，检测环               |
 | TOP  | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | 前缀树                                                       | 前缀树                   |
+| TOP  | [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) |                                                              | BFS                      |
 |      | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |                                                              | 排序                     |
 |      | [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | dfs                                                          | dfs                      |
 |      | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) |                                                              | dfs 、dp                 |
@@ -129,6 +130,7 @@
 |      | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) |                                                              | 上题变形                 |
 |      | [310. 最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/) |                                                              | 树，bfs                  |
 | TOP  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 完全背包、dp（用stack会死循环）                              | 完全背包、DP             |
+| TOP  | [324. 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/) |                                                              |                          |
 | TOP  | [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/) |                                                              |                          |
 | TOP  | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) |                                                              | 指针操作                 |
 | TOP  | [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) |                                                              |                          |
@@ -147,6 +149,7 @@
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 |      | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | 同 383                                                       | 智障题                   |
 |      | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 遍历找子串字符就行                                           |                          |
+|      | [395. 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) |                                                              | 分治                     |
 |      | [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) |                                                              | 递归                     |
 |      | [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) |                                                              | 智障题目                 |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
@@ -205,6 +208,7 @@
 |      | [1347. 制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 统计两个单词字母出现次数差                                   | 字符串变换               |
 |      | [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) |                                                              | 位运算 + map + multiset  |
 |      | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
+|      | [1694. 重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
 |      | [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci) |                                                              | 智障题                   |
