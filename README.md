@@ -108,6 +108,7 @@
 |      | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |                                                              | STL                      |
 | TOP  | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 第一次遍历解析字符串、第二次遍历进行计算                     | 字符串处理    STL queue  |
 |      | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) |                                                              | 区间                     |
+|      | [229. 求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) |                                                              | 摩尔投票法               |
 | TOP  | [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 树的中序遍历                                                 | 树                       |
 |      | [231. 2的幂](https://leetcode-cn.com/problems/power-of-two/) | 计算int中1的个数==1即可                                      | 位运算                   |
 |      | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |                                                              | STL                      |
