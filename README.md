@@ -157,10 +157,13 @@
 | TOP  | [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | 随机数，两数交换                                             |                          |
 |      | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/) | 同 383                                                       | 智障题                   |
 |      | [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 遍历找子串字符就行                                           |                          |
+|      | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) |                                                              | stack                    |
 |      | [395. 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) |                                                              | 分治                     |
+|      | [399. 除法求值](https://leetcode-cn.com/problems/evaluate-division/) |                                                              | 并查集 + bfs             |
 |      | [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) |                                                              | 递归                     |
 |      | [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) |                                                              | 智障题目                 |
 | TOP  | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) |                                                              | 智障题目                 |
+|      | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) |                                                              | 字符串处理               |
 |      | [417. 太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | 四个方向dfs                                                  | DFS                      |
 |      | [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |                                                              | 智障题目                 |
 |      | [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |                                                              | 贪心                     |
@@ -199,6 +202,7 @@
 |      | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |                                                              | dp                       |
 |      | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 滑动窗口+合并区间                                            | 滑动窗口                 |
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
+|      | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) |                                                              | 智障题                   |
 |      | [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/) | 简单的判断非重叠的情况就行                                   | 数学                     |
 |      | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) |                                                              | 字符串                   |
 |      | [845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) | 边界很烦                                                     | 双指针                   |
