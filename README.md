@@ -185,10 +185,12 @@
 |      | [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |                                                              | 位运算 or 二分变形       |
 |      | [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 两次遍历                                                     | 矩阵                     |
 |      | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              | 递归                     |
+|      | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) |                                                              | 并查集/DFS               |
 |      | [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
 |      | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) |                                                              | 递归                     |
+|      | [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/) |                                                              | 贪心                     |
 |      | [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 注意溢出                                                     | 双指针                   |
 |      | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |                                                              | 智障题目                 |
 |      | [646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) |                                                              | 300变种，dp              |
@@ -221,6 +223,7 @@
 |      | [1347. 制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 统计两个单词字母出现次数差                                   | 字符串变换               |
 |      | [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) |                                                              | 位运算 + map + multiset  |
 |      | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
+|      | [1401. 圆和矩形是否有重叠](https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/) |                                                              | 数学                     |
 |      | [1694. 重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
