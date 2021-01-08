@@ -90,6 +90,7 @@
 | SQL  | [181. 超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) |                                                              | Select from select       |
 | SQL  | [182. 查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/) |                                                              | Group by having count    |
 | SQL  | [183. 从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/) |                                                              | NOT IN                   |
+|      | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) |                                                              | trick                    |
 | TOP  | [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | 位运算： <<、>>、&<br />result左移，ori_num右移              | 位运算                   |
 | TOP  | [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | 位运算：>>、&<br />原数右移32次判断最低位即可                | 位运算<br />bitset       |
 | TOP  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | dp[i] = max(dp[i - 1], n[i] + dp[i - 2]);                    | Dp                       |
@@ -172,6 +173,7 @@
 |      | [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) |                                                              | 桶排序                   |
 |      | [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) |                                                              | 贪心                     |
 |      | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |                                                              | 贪心                     |
+|      | [460. LFU 缓存](https://leetcode-cn.com/problems/lfu-cache/) |                                                              | map+set+自定义比较       |
 |      | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |                                                              | 位运算                   |
 |      | [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) | 数边长                                                       | 简单                     |
 |      | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 一次遍历                                                     | 智障题目                 |
