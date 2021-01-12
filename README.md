@@ -219,9 +219,15 @@
 |      | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 找到中值，再向两边遍历                                       |                          |
 |      | [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |                                                              | 智障题                   |
 |      | [1038. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) |                                                              | 前序遍历变种             |
+| 并发 | [1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/) |                                                              |                          |
+| 并发 | [1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/) |                                                              |                          |
+| 并发 | [1116. 打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/) |                                                              |                          |
+| 并发 | [1117. H2O 生成](https://leetcode-cn.com/problems/building-h2o/) |                                                              |                          |
+|      | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |                                                              | dp                       |
 |      | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | 统计单词                                                     | 智障题                   |
-|      | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |                                                              | Dp                       |
+| 并发 | [1195. 交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/) |                                                              |                          |
 |      | [1207. 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) |                                                              | 智障题                   |
+| 并发 | [1226. 哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers/) |                                                              |                          |
 |      | [1347. 制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 统计两个单词字母出现次数差                                   | 字符串变换               |
 |      | [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) |                                                              | 位运算 + map + multiset  |
 |      | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
