@@ -45,6 +45,7 @@
 |      | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) |                                                              | 链表                     |
 |      | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |                                                              | 智障题                   |
 |      | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |                                                              |                          |
+|      | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)  |                                                              | 数学规律                 |
 |      | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  |                                                              | dfs                      |
 | TOP  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 26进制+dp                                                    | dp                       |
 | TOP  | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |                                                              | queue                    |
@@ -188,6 +189,7 @@
 |      | [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 两次遍历                                                     | 矩阵                     |
 |      | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |                                                              | 递归                     |
 |      | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) |                                                              | 并查集/DFS               |
+|      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |                                                              | Reverse                  |
 |      | [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
@@ -201,6 +203,7 @@
 |      | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |                                                              | 300变种，dp              |
 |      | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) |                                                              | 序列                     |
 |      | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |                                                              | 双指针                   |
+|      | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) |                                                              | 并查集                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
 |      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |                                                              | Dfs                      |
 |      | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |                                                              | dp                       |
