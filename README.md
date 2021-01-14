@@ -192,6 +192,8 @@
 |      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |                                                              | Reverse                  |
 |      | [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
+|      | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) |                                                              | map                      |
+|      | [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) |                                                              | 智障                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
 |      | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) |                                                              | 递归                     |
 |      | [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/) |                                                              | 贪心                     |
@@ -226,6 +228,7 @@
 | 并发 | [1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/) |                                                              |                          |
 | 并发 | [1116. 打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd/) |                                                              |                          |
 | 并发 | [1117. H2O 生成](https://leetcode-cn.com/problems/building-h2o/) |                                                              |                          |
+|      | [1018. 可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) |                                                              | 取余+位移                |
 |      | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |                                                              | dp                       |
 |      | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | 统计单词                                                     | 智障题                   |
 | 并发 | [1195. 交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/) |                                                              |                          |
