@@ -48,6 +48,7 @@
 |      | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)  |                                                              | 数学规律                 |
 |      | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  |                                                              | dfs                      |
 | TOP  | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 26进制+dp                                                    | dp                       |
+|      | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) |                                                              |                          |
 | TOP  | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |                                                              | queue                    |
 | TOP  | [103. 二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) |                                                              | Queue + reverse          |
 | TOP  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |                                                              | 递归                     |
@@ -205,12 +206,18 @@
 |      | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |                                                              | 300变种，dp              |
 |      | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) |                                                              | 序列                     |
 |      | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) |                                                              | 双指针                   |
+|      | [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/) |                                                              | 简单到家的状态机         |
 |      | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) |                                                              | 并查集                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
 |      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |                                                              | Dfs                      |
 |      | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |                                                              | dp                       |
+|      | [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) |                                                              | 位运算/bitset            |
 |      | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 滑动窗口+合并区间                                            | 滑动窗口                 |
+|      | [771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) |                                                              | 智障题                   |
 |      | [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |                                                              | 树                       |
+|      | [788. 旋转数字](https://leetcode-cn.com/problems/rotated-digits/) |                                                              | 智障题                   |
+|      | [804. 唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) |                                                              | unordered_set            |
+|      | [806. 写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) |                                                              | 智障题                   |
 |      | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) |                                                              | 智障题                   |
 |      | [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/) | 简单的判断非重叠的情况就行                                   | 数学                     |
 |      | [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) |                                                              | 字符串                   |
@@ -252,6 +259,23 @@
 |      | [面试题 08.04. 幂集](https://leetcode-cn.com/problems/power-set-lcci/) |                                                              | Dfs                      |
 |      | [面试题 16.02. 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci/) |                                                              | map                      |
 |      | [面试题 17.22. 单词转换](https://leetcode-cn.com/problems/word-transformer-lcci/) |                                                              | dfs                      |
+|      |                                                              |                                                              |                          |
+|      |                                                              |                                                              |                          |
+
+
+
+牛客网：
+
+|      |                                                              |                      |          |
+| ---- | ------------------------------------------------------------ | -------------------- | -------- |
+|      | [NC0012 重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=188&&tqId=37364&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 树，递归 |
+|      | [NC0014 二叉树的之字形层次遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=188&&tqId=37372&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 层次遍历，reverse    | 树       |
+|      | [NC0022 合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=188&&tqId=37378&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 双指针               | 数组     |
+|      | [NC0038 螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=188&&tqId=37374&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规     |
+|      | [NC0045 二叉树的前中后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=188&&tqId=37375&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 递归                 | 树       |
+|      | [NC0060 判断二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=196&&tqId=37156&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 中序遍历+层次遍历    | 树       |
+|      | [NC0093 实现LRU](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=188&&tqId=37367&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map + list | STL      |
+|      | [NC0112 进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=188&&tqId=37376&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规     |
 
 
 
