@@ -266,24 +266,33 @@
 
 牛客网：
 
-|      |                                                              |                      |          |
-| ---- | ------------------------------------------------------------ | -------------------- | -------- |
-|      | [NC0012 重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=188&&tqId=37364&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 树，递归 |
-|      | [NC0014 二叉树的之字形层次遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=188&&tqId=37372&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 层次遍历，reverse    | 树       |
-|      | [NC0022 合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=188&&tqId=37378&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 双指针               | 数组     |
-|      | [NC0034求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=188&&tqId=37383&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | dp       |
-|      | [NC0038 螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=188&&tqId=37374&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规     |
-|      | [NC0045 二叉树的前中后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=188&&tqId=37375&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 递归                 | 树       |
-|      | [NC0060 判断二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=196&&tqId=37156&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 中序遍历+层次遍历    | 树       |
-|      | [NC0061两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=188&&tqId=37382&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | map                  | STL      |
-|      | [NC0063 跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=188&&tqId=37379&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 斐波那契数列         | dp       |
-|      | [NC0072 二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=188&&tqId=37380&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 递归                 | 树       |
-|      | [NC0078 反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=188&&tqId=37361&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 链表     |
-|      | [NC0093 实现LRU](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=188&&tqId=37367&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map + list | STL      |
-|      | [NC 0096 判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=188&&tqId=37381&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 链表     |
-|      | [NC0101缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=188&&tqId=37384&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 遍历     |
-|      | [NC0112 进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=188&&tqId=37376&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规     |
-|      |                                                              |                      |          |
+|      |                                                              |                      |                |
+| ---- | ------------------------------------------------------------ | -------------------- | -------------- |
+|      | [NC0001大数相加](https://www.nowcoder.com/practice/11ae12e8c6fe48f883cad618c2e81475?tpId=188&&tqId=37369&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 字符串         |
+|      | [NC0004判断链表有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=188&&tqId=37363&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 快慢指针       |
+|      | [NC0009二叉树中是否存在节点和为指定值的和](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=188&&tqId=37365&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 递归           |
+|      | [NC0012 重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=188&&tqId=37364&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 树，递归       |
+|      | [NC0014 二叉树的之字形层次遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=188&&tqId=37372&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 层次遍历，reverse    | 树             |
+|      | [NC0015二叉树的层次遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=188&&tqId=37370&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 树，queue      |
+|      | [NC0022 合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=188&&tqId=37378&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 双指针               | 数组           |
+|      | [NC0034求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=188&&tqId=37383&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | dp             |
+|      | [NC0038 螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=188&&tqId=37374&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规           |
+|      | [NC0045 二叉树的前中后序遍历](https://www.nowcoder.com/practice/a9fec6c46a684ad5a3abd4e365a9d362?tpId=188&&tqId=37375&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 递归                 | 树             |
+|      | [NC0053删除链表的倒数第N个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=188&&tqId=37366&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 快慢指针       |
+|      | [NC0060 判断二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=196&&tqId=37156&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 中序遍历+层次遍历    | 树             |
+|      | [NC0061两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=188&&tqId=37382&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | map                  | STL            |
+|      | [NC0063 跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=188&&tqId=37379&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 斐波那契数列         | dp             |
+|      | [NC0072 二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=188&&tqId=37380&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 递归                 | 树             |
+|      | [NC0078 反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=188&&tqId=37361&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 链表           |
+|      | [NC0088第K大的数](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=35010&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) |                      | 快排           |
+|      | [NC0093 实现LRU](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=188&&tqId=37367&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map + list | STL            |
+|      | [NC 0096 判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=188&&tqId=37381&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 链表           |
+|      | [NC0101缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=188&&tqId=37384&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 遍历           |
+|      | [NC0105二分查找](https://www.nowcoder.com/practice/7bc4a1c7c371425d9faa9d1b511fe193?tpId=117&&tqId=35030&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) |                      | 二分查找>=     |
+|      | [NC0112 进制转换](https://www.nowcoder.com/practice/2cc32b88fff94d7e8fd458b8c7b25ec1?tpId=188&&tqId=37376&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 常规           |
+|      | [NC0117合并二叉树](https://www.nowcoder.com/practice/7298353c24cc42e3bd5f0e0bd3d1d759?tpId=188&&tqId=37368&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | 递归           |
+|      | [NC0119最小的k个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=188&&tqId=37373&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                      | Priority_queue |
+|      |                                                              |                      |                |
 
 
 
