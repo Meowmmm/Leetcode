@@ -18,6 +18,7 @@
 |      | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 二分查找                                                     | 二分查找                 |
 | TOP  | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找                                                     | 二分查找                 |
 |      | [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | STL真香                                                      | Next_permutation         |
+|      | [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | Stack, trick                                                 | trick                    |
 | TOP  | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 类似斐波拉契，一层层处理                                     | 字符串处理               |
 | TOP  | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 完全背包                                                     | dfs                      |
 |      | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |                                                              | Trick                    |
@@ -35,6 +36,7 @@
 |      | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |                                                              | dp                       |
 | TOP  | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 溢出警告⚠️                                                    | 二分                     |
 |      | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | dp[n] = dp[n-1] + dp[n-2]                                    | dp                       |
+|      | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 二维dp                                                       | Dp                       |
 |      | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |                                                              | 二分                     |
 | TOP  | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) |                                                              | 排序                     |
 | TOP  | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |                                                              | 滑动窗口                 |
@@ -195,6 +197,7 @@
 |      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |                                                              | Reverse                  |
 |      | [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |                                                              | 递归                     |
 |      | [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |                                                              | 递归                     |
+|      | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 二维dp，【72题编辑距离】的变形                               | dp                       |
 |      | [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) |                                                              | map                      |
 |      | [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) |                                                              | 智障                     |
 |      | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |                                                              | 贪心                     |
@@ -212,6 +215,7 @@
 |      | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) |                                                              | 并查集                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
 |      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |                                                              | Dfs                      |
+|      | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 二维dp，【72题编辑距离】的变形                               | dp                       |
 |      | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) |                                                              | dp                       |
 |      | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |                                                              | dp                       |
 |      | [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) |                                                              | 位运算/bitset            |
@@ -291,6 +295,7 @@
 |      | [NC0031第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=196&&tqId=37558&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 两次遍历                     | 字符串         |
 |      | [NC0033合并有序链表](https://www.nowcoder.com/practice/a479a3f0c4554867b35356e0d57cf03d?tpId=188&&tqId=37516&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
 |      | [NC0034求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=188&&tqId=37383&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | dp             |
+|      | [NC0035最小编辑代价](https://www.nowcoder.com/practice/05fed41805ae4394ab6607d0d745c8e4?tpId=196&&tqId=37134&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 二维dp，72编辑距离的变形     | dp             |
 |      | [NC0038 螺旋矩阵](https://www.nowcoder.com/practice/7edf70f2d29c4b599693dc3aaeea1d31?tpId=188&&tqId=37374&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 常规           |
 |      | [NC0040两个链表生成相加链表](https://www.nowcoder.com/practice/c56f6c70fb3f4849bc56e33ff2a50b6b?tpId=188&&tqId=37538&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 倒序链表，链表相加，倒序链表 | 链表           |
 |      | [NC0041最长无重复子串](https://www.nowcoder.com/practice/b56799ebfd684fb394bd315e89324fb4?tpId=188&&tqId=37555&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map, 记录begin     | STL            |
