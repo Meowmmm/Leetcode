@@ -207,6 +207,7 @@
 |      | [643. 子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | 简单的遍历就行                                               | 滑动窗口                 |
 |      | [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |                                                              | 智障题目                 |
 |      | [646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) |                                                              | 300变种，dp              |
+|      | [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) |                                                              |                          |
 |      | [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) |                                                              | 树的遍历+set             |
 |      | [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |                                                              | 贪心                     |
 |      | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |                                                              | 300变种，dp              |
@@ -239,6 +240,7 @@
 |      | [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) |                                                              | priority_queue           |
 |      | [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | 找到中值，再向两边遍历                                       |                          |
 |      | [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |                                                              | 智障题                   |
+|      | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) |                                                              | 滑动窗口                 |
 |      | [1038. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) |                                                              | 前序遍历变种             |
 | 并发 | [1114. 按序打印](https://leetcode-cn.com/problems/print-in-order/) |                                                              |                          |
 | 并发 | [1115. 交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately/) |                                                              |                          |
@@ -256,9 +258,14 @@
 |      | [1401. 圆和矩形是否有重叠](https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/) |                                                              | 数学                     |
 |      | [1694. 重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |                                                              | 智障题                   |
+| 剑指 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) |                                                              | dfs                      |
 | 剑指 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | 消除思想                                                     | trick                    |
+| 剑指 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | priority_queue                                               | STL                      |
+| 剑指 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) |                                                              | dp                       |
 | 剑指 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |                                                              | 记录begin                |
+| 剑指 | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) |                                                              | queue+deque              |
+| 剑指 | [剑指 Offer 63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) |                                                              | 同121                    |
 |      | [面试题 01.01. 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci) |                                                              | 智障题                   |
 |      | [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/) |                                                              | 智障题                   |
 |      | [面试题 01.03. URL化](https://leetcode-cn.com/problems/string-to-url-lcci/) |                                                              | 智障题                   |
@@ -283,6 +290,8 @@
 |      | [NC0002重排链表](https://www.nowcoder.com/practice/3d281dc0b3704347846a110bf561ef6b?tpId=188&&tqId=37552&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 取中，切断，翻转，合并       | 链表           |
 |      | [NC0003链表中环的入口](https://www.nowcoder.com/practice/6e630519bf86480296d0f1c868d425ad?tpId=188&&tqId=37517&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表，公式     |
 |      | [NC0004判断链表有环](https://www.nowcoder.com/practice/650474f313294468a4ded3ce0f7898b9?tpId=188&&tqId=37363&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 快慢指针       |
+|      | [NC0005二叉树根节点到叶子节点的所有路径和](https://www.nowcoder.com/practice/185a87cd29eb42049132aed873273e83?tpId=196&tqId=37049&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | 递归           |
+|      | [NC0006二叉树的最大路径和](https://www.nowcoder.com/practice/da785ea0f64b442488c125b441a4ba4a?tpId=196&tqId=37050&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | 递归           |
 |      | [NC0008二叉树根节点到叶子节点为指定和的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=188&&tqId=37535&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 递归           |
 |      | [NC0009二叉树中是否存在节点和为指定值的和](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=188&&tqId=37365&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 递归           |
 |      | [NC0012 重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=188&&tqId=37364&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 树，递归       |
@@ -293,6 +302,7 @@
 |      | [NC0019子数组的最大累加和问题](https://www.nowcoder.com/practice/554aa508dd5d4fefbf0f86e5fe953abd?tpId=188&&tqId=37545&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 1维dp                        | dp             |
 |      | [NC0022 合并两个有序的数组](https://www.nowcoder.com/practice/89865d4375634fc484f3a24b7fe65665?tpId=188&&tqId=37378&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 双指针                       | 数组           |
 |      | [NC0030数组中没有出现过的最小整数](https://www.nowcoder.com/practice/8cc4f31432724b1f88201f7b721aa391?tpId=188&&tqId=37539&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 位运算         |
+|      | [NC0032求平方根](https://www.nowcoder.com/practice/09fbfb16140b40499951f55113f2166c?tpId=196&tqId=37068&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | 二分           |
 |      | [NC0031第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=196&&tqId=37558&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 两次遍历                     | 字符串         |
 |      | [NC0033合并有序链表](https://www.nowcoder.com/practice/a479a3f0c4554867b35356e0d57cf03d?tpId=188&&tqId=37516&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
 |      | [NC0034求路径](https://www.nowcoder.com/practice/166eaff8439d4cd898e3ba933fbc6358?tpId=188&&tqId=37383&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | dp             |
@@ -319,6 +329,7 @@
 |      | [NC0078 反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=188&&tqId=37361&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
 |      | [NC0088第K大的数](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=35010&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) |                              | 快排           |
 |      | [NC0090设计getMin功能的栈](https://www.nowcoder.com/practice/c623426af02d4c189f92f2a99647bd34?tpId=188&&tqId=37556&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | stack                        | STL            |
+|      | [NC0091最长递增子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=196&tqId=37129&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | trick          |
 |      | [NC0093 实现LRU](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=188&&tqId=37367&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map + list         | STL            |
 |      | [NC0096 判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=188&&tqId=37381&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
 |      | [NC0101缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=188&&tqId=37384&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 遍历           |
