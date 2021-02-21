@@ -217,6 +217,7 @@
 |      | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) |                                                              | 并查集                   |
 |      | [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |                                                              | 自定义sort               |
 |      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |                                                              | Dfs                      |
+|      | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | map                                                          | STL                      |
 |      | [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 二维dp，【72题编辑距离】的变形                               | dp                       |
 |      | [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) |                                                              | dp                       |
 |      | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |                                                              | dp                       |
@@ -256,6 +257,7 @@
 |      | [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) |                                                              | 位运算 + map + multiset  |
 |      | [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | 如何累加                                                     | 简单题                   |
 |      | [1401. 圆和矩形是否有重叠](https://leetcode-cn.com/problems/circle-and-rectangle-overlapping/) |                                                              | 数学                     |
+|      | [1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) |                                                              | 滑动窗口                 |
 |      | [1694. 重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |                                                              | 智障题                   |
 | 剑指 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) |                                                              | dfs                      |
@@ -295,6 +297,7 @@
 |      | [NC0008二叉树根节点到叶子节点为指定和的路径](https://www.nowcoder.com/practice/840dd2dc4fbd4b2199cd48f2dadf930a?tpId=188&&tqId=37535&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 递归           |
 |      | [NC0009二叉树中是否存在节点和为指定值的和](https://www.nowcoder.com/practice/508378c0823c423baa723ce448cbfd0c?tpId=188&&tqId=37365&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 递归           |
 |      | [NC0012 重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=188&&tqId=37364&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 树，递归       |
+|      | [NC0013二叉树的最大深度](https://www.nowcoder.com/practice/8a2b2bf6c19b4f23a9bdb9b233eefa73?tpId=196&tqId=37055&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | Dfs，递归      |
 |      | [NC0014 二叉树的之字形层次遍历](https://www.nowcoder.com/practice/47e1687126fa461e8a3aff8632aa5559?tpId=188&&tqId=37372&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 层次遍历，reverse            | 树             |
 |      | [NC0015二叉树的层次遍历](https://www.nowcoder.com/practice/04a5560e43e24e9db4595865dc9c63a3?tpId=188&&tqId=37370&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 树，queue      |
 |      | [NC0016判断二叉树是否对称](https://www.nowcoder.com/practice/1b0b7f371eae4204bc4a7570c84c2de1?tpId=188&&tqId=37515&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 树，递归       |
@@ -318,6 +321,7 @@
 |      | [NC0053删除链表的倒数第N个节点](https://www.nowcoder.com/practice/f95dcdafbde44b22a6d741baf71653f6?tpId=188&&tqId=37366&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 快慢指针       |
 |      | [NC0054数组中相加和为0的三元组](https://www.nowcoder.com/practice/345e2ed5f81d4017bbb8cc6055b0b711?tpId=188&&tqId=37532&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | Map, pair                    | STL            |
 |      | [NC0055最长公共前缀](https://www.nowcoder.com/practice/28eb3175488f4434a4a6207f6f484f47?tpId=196&&tqId=37086&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 遍历                         | 字符串         |
+|      | [NC0059矩阵最小路径和](https://www.nowcoder.com/practice/7d21b6be4c6b429bb92d219341c4f8bb?tpId=196&tqId=37157&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | dp             |
 |      | [NC0060 判断二叉树是否为搜索二叉树和完全二叉树](https://www.nowcoder.com/practice/f31fc6d3caf24e7f8b4deb5cd9b5fa97?tpId=196&&tqId=37156&rp=1&ru=/activity/oj&qru=/ta/job-code-total/question-ranking) | 中序遍历+层次遍历            | 树             |
 |      | [NC0061两数之和](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=188&&tqId=37382&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | map                          | STL            |
 |      | [NC0063 跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=188&&tqId=37379&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 斐波那契数列                 | dp             |
@@ -327,11 +331,13 @@
 |      | [NC0073数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=188&&tqId=37529&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | 消除思想                     | trick          |
 |      | [NC0076用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=188&&tqId=37536&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | stack                        | STL            |
 |      | [NC0078 反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=188&&tqId=37361&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
+|      | [NC0086矩阵元素查找](https://www.nowcoder.com/practice/3afe6fabdb2c46ed98f06cfd9a20f2ce?tpId=196&tqId=37121&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) | 右上↙左下                    | 剑指offer原题  |
 |      | [NC0088第K大的数](https://www.nowcoder.com/practice/e016ad9b7f0b45048c58a9f27ba618bf?tpId=117&&tqId=35010&rp=1&ru=/activity/oj&qru=/ta/job-code-high/question-ranking) |                              | 快排           |
 |      | [NC0090设计getMin功能的栈](https://www.nowcoder.com/practice/c623426af02d4c189f92f2a99647bd34?tpId=188&&tqId=37556&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | stack                        | STL            |
 |      | [NC0091最长递增子序列](https://www.nowcoder.com/practice/9cf027bf54714ad889d4f30ff0ae5481?tpId=196&tqId=37129&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | trick          |
 |      | [NC0093 实现LRU](https://www.nowcoder.com/practice/e3769a5f49894d49b871c09cadd13a61?tpId=188&&tqId=37367&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) | unordered_map + list         | STL            |
 |      | [NC0096 判断一个链表是否为回文结构](https://www.nowcoder.com/practice/3fed228444e740c8be66232ce8b87c2f?tpId=188&&tqId=37381&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 链表           |
+|      | [NC0097出现次数的TopK问题](https://www.nowcoder.com/practice/fd711bdfa0e840b381d7e1b82183b3ee?tpId=196&tqId=37142&rp=1&ru=%2Fta%2Fjob-code-total&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) | map，unordered_map           | STL            |
 |      | [NC0101缺失数字](https://www.nowcoder.com/practice/9ce534c8132b4e189fd3130519420cde?tpId=188&&tqId=37384&rp=1&ru=/activity/oj&qru=/ta/job-code-high-week/question-ranking) |                              | 遍历           |
 |      | [NC0102二叉树两个节点的最近公共祖先](https://www.nowcoder.com/practice/e0cc33a83afe4530bcec46eba3325116?tpId=196&tqId=37160&rp=1&ru=%2Factivity%2Foj&qru=%2Fta%2Fjob-code-total%2Fquestion-ranking&tab=answerKey) |                              | 递归           |
 |      | [NC0103反转字符串](https://www.nowcoder.com/practice/c3a6afee325e472386a1c4eb1ef987f3?tpId=190&&tqId=35226&rp=1&ru=/activity/oj&qru=/ta/job-code-high-rd/question-ranking) |                              | 双指针         |
